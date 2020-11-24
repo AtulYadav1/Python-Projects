@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 #load the iris dataset
 from sklearn.datasets import load_iris
 iris = load_iris()
